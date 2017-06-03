@@ -2,8 +2,140 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce386f87-8ea1-4f9d-92c8-421fe9ae17e5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5baeffcf-e54f-42f3-ba29-555b451ddf42/_metadata_/metadata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5baeffcf-e54f-42f3-ba29-555b451ddf42/_metadata_/metadata.keystream" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5baeffcf-e54f-42f3-ba29-555b451ddf42/_metadata_/metadata.keystream.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5baeffcf-e54f-42f3-ba29-555b451ddf42/_metadata_/metadata.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5baeffcf-e54f-42f3-ba29-555b451ddf42/_metadata_/metadata.values.at" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5baeffcf-e54f-42f3-ba29-555b451ddf42/_metadata_/metadata_i" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5baeffcf-e54f-42f3-ba29-555b451ddf42/_metadata_/metadata_i.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f2dbb4ed-52be-410d-94e6-8e55c72ea837/_metadata_/metadata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f2dbb4ed-52be-410d-94e6-8e55c72ea837/_metadata_/metadata.keystream" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f2dbb4ed-52be-410d-94e6-8e55c72ea837/_metadata_/metadata.keystream.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f2dbb4ed-52be-410d-94e6-8e55c72ea837/_metadata_/metadata.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f2dbb4ed-52be-410d-94e6-8e55c72ea837/_metadata_/metadata.values.at" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f2dbb4ed-52be-410d-94e6-8e55c72ea837/_metadata_/metadata_i" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f2dbb4ed-52be-410d-94e6-8e55c72ea837/_metadata_/metadata_i.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f84352dc-6a11-4db4-8983-633b5a43c1c6/_metadata_/metadata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f84352dc-6a11-4db4-8983-633b5a43c1c6/_metadata_/metadata.keystream" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f84352dc-6a11-4db4-8983-633b5a43c1c6/_metadata_/metadata.keystream.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f84352dc-6a11-4db4-8983-633b5a43c1c6/_metadata_/metadata.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f84352dc-6a11-4db4-8983-633b5a43c1c6/_metadata_/metadata_i" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f84352dc-6a11-4db4-8983-633b5a43c1c6/_metadata_/metadata_i.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.phar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Aaargh/Aaargh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Aaargh/AaarghBold/AaarghBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Aaargh/AaarghBold/AaarghBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Aaargh/AaarghBold/AaarghBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Aaargh/AaarghRegular/AaarghRegular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Aaargh/AaarghRegular/AaarghRegular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Aaargh/AaarghRegular/AaarghRegular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Herculanum.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/RobotoBold/RobotoBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/RobotoBold/RobotoBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/RobotoBold/RobotoBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/RobotoLight/RobotoLight.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/RobotoLight/RobotoLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/RobotoLight/RobotoLight.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/RobotoMedium/RobotoMedium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/RobotoMedium/RobotoMedium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/RobotoMedium/RobotoMedium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/RobotoRegular/RobotoRegular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/RobotoRegular/RobotoRegular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/RobotoRegular/RobotoRegular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Hobby.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Photo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/SV.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/SV.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Video.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/liefs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/fancybox/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/fancybox/fancybox_loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/fancybox/fancybox_loading@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/fancybox/fancybox_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/fancybox/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/fancybox/fancybox_sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/fancybox/helpers/fancybox_buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/font-awesome-4.2.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/owl-carousel/AjaxLoader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/owl-carousel/grabbing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5baeffcf-e54f-42f3-ba29-555b451ddf42/storage.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f2dbb4ed-52be-410d-94e6-8e55c72ea837/storage.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f84352dc-6a11-4db4-8983-633b5a43c1c6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f84352dc-6a11-4db4-8983-633b5a43c1c6/storage.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/site.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/all/info.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/controllers/Home.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/controllers/Photo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/controllers/Test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/controllers/Video.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/media.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/liefs.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/bootstrap-grid-3.3.1.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/countdown/jquery.countdown-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/countdown/jquery.countdown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/countdown/jquery.countdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/countdown/jquery.plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/fancybox/helpers/jquery.fancybox-buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/fancybox/helpers/jquery.fancybox-buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/fancybox/helpers/jquery.fancybox-media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/fancybox/helpers/jquery.fancybox-thumbs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/fancybox/helpers/jquery.fancybox-thumbs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/fancybox/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/fancybox/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/fancybox/jquery.fancybox.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/font-awesome-4.2.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/html5shiv/es5-shim.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/html5shiv/html5shiv-printshiv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/html5shiv/html5shiv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/html5shiv/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/jquery-mousewheel/jquery.mousewheel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/jquery/jquery-1.11.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/landing-nav/navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/owl-carousel/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/owl-carousel/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/owl-carousel/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/owl-carousel/owl.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/owl-carousel/owl.transitions.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/respond/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/scrollto/jquery.scrollTo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/waypoints/waypoints-1.6.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpliteadmin.config.sample.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpliteadmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hobby.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/home.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/photo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/video.php" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PyProject/static/admin/fonts/LICENSE.txt" afterPath="$USER_HOME$/PyProject/static/admin/fonts/LICENSE.txt" />
     </list>
@@ -85,7 +217,7 @@
       <file leaf-file-name="Video.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/core/controllers/Video.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-46">
+            <state relative-caret-position="80">
               <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
               <folding>
                 <marker date="1496225972000" expanded="true" signature="337:378" ph="..." />
@@ -434,12 +566,12 @@
       <workItem from="1496047565948" duration="13507000" />
       <workItem from="1496131342443" duration="200000" />
       <workItem from="1496132424902" duration="11774000" />
-      <workItem from="1496456035788" duration="819000" />
+      <workItem from="1496456035788" duration="945000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91746000" />
+    <option name="totallyTimeSpent" value="91872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -839,7 +971,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/controllers/Video.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-46">
+        <state relative-caret-position="80">
           <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
           <folding>
             <marker date="1496225972000" expanded="true" signature="337:378" ph="..." />
