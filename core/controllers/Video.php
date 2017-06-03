@@ -17,16 +17,18 @@ class Controllers_Video
 
 //        return "Мы выводим страницу <b>Video<b>";
         require_once($_SERVER['DOCUMENT_ROOT'].'/views/video.php');
-        echo get_class($this);
+        echo __CLASS__;
+        echo '<br/>';
+        echo $_SERVER['DOCUMENT_ROOT'];
         echo mb_strtolower(str_replace(  "Controllers_","",__CLASS__));
         $db = new PDO('sqlite:db.sqlite');
-        $rows = $db->query('SELECT * FROM video');
+        $rows = $db->query('SELECT * FROM '. mb_strtolower(str_replace(  "Controllers_","",__CLASS__)));
 
         while ($row = $rows->fetch())
         {
             // Оператором echo выводим на экран поля таблицы file , title и description
 
-            echo '<iframe width="100"  src='.$row['file'].' frameborder="1" allowfullscreen></iframe>';
+            echo '<iframe width="400"  src='.$row['file'].' frameborder="1" allowfullscreen></iframe>';
             echo 'url: '.$row['file'];
             echo '<br/>';
             echo 'название: '.$row['title'];
@@ -35,7 +37,7 @@ class Controllers_Video
             echo '<br/>';
             echo '<br/>';
         }
-//        echo $db; 
+//        echo $db;
 
 
     }
