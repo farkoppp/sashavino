@@ -1,0 +1,180 @@
+*::-webkit-input-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*:-moz-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*::-moz-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*:-ms-input-placeholder {
+	color: #666;
+	opacity: 1;
+}
+
+* {
+
+	transition: 5ms;
+}
+
+body input:focus:required:invalid,
+body textarea:focus:required:invalid {
+	
+}
+body input:required:valid,
+body textarea:required:valid {
+	
+}
+html, body {
+	min-height: 100%;
+}
+body {
+	background-color: #fdfbfc;
+	background-image: url("../img/SV.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right top;
+	/*position: fixed ;*/
+	/*z-index: -1;*/
+
+}
+
+
+.links{
+	/*clear: inherit;*/
+	/*position: relative;*/
+    text-align: center;
+	margin: 8% 0 0 20px;
+	width: 60%;
+	transition: all 900ms ease;
+}
+
+.topic {
+	text-align: center;
+	letter-spacing: 5px;
+	color: rgb(98, 103, 107);
+	font-size: 30px;
+	font-family: Herculanum, sans-serif;
+    /*width: inherit;*/
+}
+
+.activity {
+	text-align: center;
+	font-family: Aaargh;
+	letter-spacing: 5px;
+	font-size: 16px;
+	color: rgb(98, 103, 107);
+	margin-top: 20px;
+
+}
+.liefs {
+    background-image: url("img/liefs.png");
+    /*max-width: 260px;*/
+    text-align: center;
+    margin: 25px 0 18px 0;
+    /*margin-top: 25px;*/
+    /*margin-bottom: 18px;*/
+    /*position: relative;*/
+}
+img{
+    max-width: 260px;
+}
+
+.item {
+	line-height: 1.2;
+	text-align: center;
+	position: relative;
+	height: 73px;
+    /*width: 100%;*/
+
+
+}
+
+.item__label{
+
+	font-family: Aaargh;
+	font-size: 12px;
+	margin-top: 6px;
+	color: #444444;
+}
+
+.item__logo{
+
+    width: 35px;
+
+}
+
+.item__logo:hover{
+	width: 39px;
+	-moz-filter: contrast(2);
+	-webkit-filter: contrast(2);
+	-o-filter: contrast(2);
+	filter: contrast(2);
+}
+
+.inside{
+	display: none;
+	position: absolute;
+	z-index: 10;
+	background-color: #337ab7;
+	height: 300px;
+}
+
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	body{
+		/*background-position: -80px;*/
+	}
+}
+
+@media only screen and (max-width : 600px) {
+	body{
+		/*background-position: -80px;*/
+	}
+	.topic{
+		font-size: 24px;
+	}
+	.activity{
+		font-size: 13px;
+		margin-top: 11px;
+	}
+	.liefs{
+		margin-top: 13px;
+	}
+	.liefs__img{
+		max-width: 200px;
+	}
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	.topic{
+		font-size: 26px;
+	}
+	body{
+		background-position: -100px;
+	}
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+	body{
+		background-position: -200px;
+	}
+}
