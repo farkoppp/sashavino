@@ -16,8 +16,12 @@ class Controllers_Video
 //        print_r($_REQUEST);
 
 //        return "Мы выводим страницу <b>Video<b>";
+        require_once($_SERVER['DOCUMENT_ROOT'].'/views/header.php');
         require_once($_SERVER['DOCUMENT_ROOT'].'/views/video.php');
+        require_once($_SERVER['DOCUMENT_ROOT'].'/views/footer.php');
         echo __CLASS__;
+        echo '<br/>';
+
         echo '<br/>';
         echo $_SERVER['DOCUMENT_ROOT'];
         echo mb_strtolower(str_replace(  "Controllers_","",__CLASS__));
@@ -28,7 +32,7 @@ class Controllers_Video
         {
             // Оператором echo выводим на экран поля таблицы file , title и description
 
-            echo '<iframe width="400"  src='.$row['file'].' frameborder="1" allowfullscreen></iframe>';
+            echo '<iframe width="400" height="400" src='.$row['file'].' frameborder="" allowfullscreen></iframe>';
             echo 'url: '.$row['file'];
             echo '<br/>';
             echo 'название: '.$row['title'];
